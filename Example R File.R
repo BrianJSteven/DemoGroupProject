@@ -1,5 +1,5 @@
-# This is just a test
-# I am fixing this code for us.
+#This is just a test
+#I am fixing this code for us.
 
 
 
@@ -8,11 +8,11 @@
 1 + 2
 
 
-## Add in stuff
+## ADd in stuff
 
 
 
 
 ## Add a comment here
 
-# New Comment by Brian
+#New Comment by Brian
